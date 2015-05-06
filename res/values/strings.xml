@@ -4,5 +4,8 @@
     <string name="app_name">PictureFinder</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="welcome">Welcome to Picture finder!</string>
+    <string name="register">Register</string>
+    <string name="sign_in">Sign In</string>
 
 </resources>
